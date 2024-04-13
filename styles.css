@@ -1,11 +1,11 @@
 @font-face {
     font-family: SnappWeb-regular;
-    src: url('fonts/SnappWeb2.0-Regular.woff');
+    src: url('./fonts/SnappWeb2.0-Regular.woff');
 }
 
 @font-face {
     font-family: SnappWeb-bold;
-    src: url('fonts/SnappWeb2.0-Bold.woff');
+    src: url('./fonts/SnappWeb2.0-Bold.woff');
 }
 
 body::-webkit-scrollbar {
